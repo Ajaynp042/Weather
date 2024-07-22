@@ -1,10 +1,10 @@
 # weatherapp
-## Date: 27-07-2023
-### Sadiq
+## Date: 22-07-2024
+### Ajay
 --
 ### Functions
 A simple weather application that displays weather information
-### Tech-Stack
+###
 - HTML/CSS
 - Javascript
 
@@ -21,6 +21,3 @@ https://api.openweathermap.org/data/2.5/
 └── main.js
 
 ``` 
-### Live on
-http://weatherapp.sadiqmagbul.host20.uk/
-
